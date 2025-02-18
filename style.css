@@ -30,7 +30,7 @@ a {
     top: 20px;
     right: 20px;
     color: #cd2d2d;
-    text-decoration: none;
+    text-decoration: line-through;
     font-size: 1rem;
     background: #f7f6f6;
     padding: 10px 20px;

@@ -24,10 +24,10 @@ body {
   }
   
   .free-samples {
-    position:left;
+    position:absolute;
     top: 20px;
     right: 20px;
-    color: purple;
+    color: #cd2d2d ;
     text-decoration: none;
     font-size: 1rem;
     background: #f7f6f6;

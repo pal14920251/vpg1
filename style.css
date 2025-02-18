@@ -26,6 +26,7 @@ body {
   .free-samples {
     position:absolute;
     top: 20px;
+    right:20px;
     color: #cd2d2d ;
     text-decoration: none;
     font-size: 1rem;

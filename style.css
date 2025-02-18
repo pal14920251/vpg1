@@ -23,7 +23,7 @@ body {
   }
   
   .free-samples {
-    text-align: left; 
+    position:absolute;
     top: 20px;
     right: 20px;
     color: #cd2d2d;

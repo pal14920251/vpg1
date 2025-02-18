@@ -24,7 +24,7 @@ body {
   }
   
   .free-samples {
-    position:justify;
+    position:left;
     top: 20px;
     right: 20px;
     color: purple;

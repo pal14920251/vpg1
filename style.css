@@ -11,9 +11,7 @@ body {
     padding: 10px;
     background: rgba(5, 0, 0, 0.7);
   }
-a {
-    text-align:left;
-}
+
   
   header h1 {
     font-size: 3rem;
@@ -26,11 +24,11 @@ a {
   }
   
   .free-samples {
-    position:absolute;
+    position:justify;
     top: 20px;
     right: 20px;
-    color: #cd2d2d;
-    text-decoration: line-through;
+    color: purple;
+    text-decoration: none;
     font-size: 1rem;
     background: #f7f6f6;
     padding: 10px 20px;
